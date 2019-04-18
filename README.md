@@ -1,4 +1,4 @@
-# vue-firestore
+# Chat App Vue
 
 ## Project setup
 ```

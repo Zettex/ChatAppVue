@@ -4,19 +4,19 @@
       <v-flex xs12 sm8 md4>
         <v-card class="elevation-12">
           <v-toolbar color="primary">
-            <v-toolbar-title>AUTHENTICATION FORM</v-toolbar-title>
+            <v-toolbar-title>LOGIN FORM</v-toolbar-title>
           </v-toolbar>
           <v-card-text>
             <v-form>
               <v-text-field 
-                prepend-icon="person" 
+                prepend-icon="fas fa-user" 
                 name="username" 
                 label="Username" 
                 type="text"
               >
               </v-text-field>
               <v-text-field
-                prepend-icon="lock"
+                prepend-icon="fas fa-lock"
                 name="password"
                 label="Password"
                 type="password"

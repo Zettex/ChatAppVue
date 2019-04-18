@@ -9,7 +9,7 @@
           <v-card-text>
             <v-form>
               <v-text-field
-                prepend-icon="person"
+                prepend-icon="fas fa-user"
                 name="username"
                 label="Username"
                 type="text"
@@ -17,7 +17,7 @@
               >
               </v-text-field>
               <v-text-field
-                prepend-icon="email"
+                prepend-icon="fas fa-envelope"
                 name="email"
                 label="Email" 
                 type="text"
@@ -25,7 +25,7 @@
               >
               </v-text-field>
               <v-text-field
-                prepend-icon="lock"
+                prepend-icon="fas fa-lock"
                 name="password"
                 label="Password"
                 type="password"
@@ -33,7 +33,7 @@
               >
               </v-text-field>
               <v-text-field
-                prepend-icon="lock"
+                prepend-icon="fas fa-lock"
                 name="confirmPassword"
                 label="Confirm Password"
                 type="password"
